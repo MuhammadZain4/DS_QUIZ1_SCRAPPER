@@ -1,148 +1,148 @@
-subcategory,price,description
-Laptops,624.97,High end laptop
-Laptops,1593.75,High end laptop
-Laptops,338.7,High end laptop
-Laptops,833.46,High end laptop
-Laptops,1141.34,High end laptop
-Laptops,533.96,High end laptop
-Laptops,1431.59,High end laptop
-Laptops,358.71,High end laptop
-Laptops,751.73,High end laptop
-Laptops,1534.33,High end laptop
-Laptops,1484.63,High end laptop
-Laptops,406.21,High end laptop
-Laptops,1540.38,High end laptop
-Laptops,324.45,High end laptop
-Laptops,880.77,High end laptop
-Laptops,1051.21,High end laptop
-Laptops,587.64,High end laptop
-Laptops,371.6,High end laptop
-Laptops,1595.99,High end laptop
-Laptops,1294.74,High end laptop
-Laptops,1013.51,High end laptop
-Laptops,342.36,High end laptop
-Laptops,1260.21,High end laptop
-Laptops,1391.51,High end laptop
-Laptops,1155.72,High end laptop
-Laptops,416.64,High end laptop
-Laptops,647.66,High end laptop
-Laptops,1392.65,High end laptop
-Laptops,492.85,High end laptop
-Laptops,1111.29,High end laptop
-Laptops,1636.0,High end laptop
-Laptops,1540.1,High end laptop
-Laptops,773.71,High end laptop
-Laptops,1548.61,High end laptop
-Laptops,1386.3,High end laptop
-Laptops,769.75,High end laptop
-Laptops,1095.7,High end laptop
-Laptops,1148.11,High end laptop
-Laptops,880.98,High end laptop
-Laptops,856.33,High end laptop
-Laptops,1136.77,High end laptop
-Laptops,912.46,High end laptop
-Laptops,1217.65,High end laptop
-Laptops,925.88,High end laptop
-Laptops,645.74,High end laptop
-Laptops,675.64,High end laptop
-Laptops,330.49,High end laptop
-Laptops,1693.32,High end laptop
-Laptops,757.3,High end laptop
-Laptops,712.88,High end laptop
-Laptops,833.37,High end laptop
-Laptops,1269.66,High end laptop
-Laptops,1226.09,High end laptop
-Laptops,661.46,High end laptop
-Laptops,568.74,High end laptop
-Laptops,946.38,High end laptop
-Laptops,426.18,High end laptop
-Laptops,534.2,High end laptop
-Laptops,1697.69,High end laptop
-Laptops,1072.17,High end laptop
-Laptops,1317.33,High end laptop
-Laptops,736.31,High end laptop
-Laptops,458.35,High end laptop
-Laptops,1318.31,High end laptop
-Laptops,1093.39,High end laptop
-Laptops,1010.28,High end laptop
-Laptops,630.5,High end laptop
-Laptops,826.34,High end laptop
-Laptops,717.52,High end laptop
-Laptops,1690.03,High end laptop
-Laptops,1519.73,High end laptop
-Laptops,1292.35,High end laptop
-Laptops,859.02,High end laptop
-Laptops,800.17,High end laptop
-Laptops,1419.21,High end laptop
-Laptops,930.91,High end laptop
-Laptops,991.6,High end laptop
-Laptops,1778.85,High end laptop
-Laptops,934.91,High end laptop
-Laptops,1491.26,High end laptop
-Laptops,1350.92,High end laptop
-Laptops,1121.38,High end laptop
-Laptops,1522.09,High end laptop
-Laptops,424.39,High end laptop
-Laptops,1655.53,High end laptop
-Laptops,1659.02,High end laptop
-Laptops,353.56,High end laptop
-Laptops,1239.89,High end laptop
-Laptops,958.85,High end laptop
-Laptops,1148.34,High end laptop
-Laptops,1095.39,High end laptop
-Laptops,1462.39,High end laptop
-Laptops,1713.33,High end laptop
-Laptops,1321.04,High end laptop
-Laptops,1727.77,High end laptop
-Laptops,817.37,High end laptop
-Laptops,1293.88,High end laptop
-Laptops,735.05,High end laptop
-Laptops,1553.49,High end laptop
-Laptops,352.34,High end laptop
-Laptops,1237.39,High end laptop
-Laptops,636.24,High end laptop
-Laptops,455.86,High end laptop
-Laptops,721.08,High end laptop
-Laptops,690.34,High end laptop
-Laptops,945.15,High end laptop
-Laptops,1363.13,High end laptop
-Laptops,1002.74,High end laptop
-Laptops,1254.31,High end laptop
-Laptops,365.56,High end laptop
-Laptops,1098.73,High end laptop
-Laptops,681.5,High end laptop
-Laptops,632.8,High end laptop
-Laptops,1213.26,High end laptop
-Laptops,909.05,High end laptop
-Laptops,1147.55,High end laptop
-Laptops,837.6,High end laptop
-Tablets,551.77,Portable tablet
-Tablets,261.67,Portable tablet
-Tablets,208.59,Portable tablet
-Tablets,372.56,Portable tablet
-Tablets,360.53,Portable tablet
-Tablets,296.18,Portable tablet
-Tablets,598.21,Portable tablet
-Tablets,388.32,Portable tablet
-Tablets,426.83,Portable tablet
-Tablets,167.69,Portable tablet
-Tablets,360.74,Portable tablet
-Tablets,349.49,Portable tablet
-Tablets,328.7,Portable tablet
-Tablets,501.59,Portable tablet
-Tablets,252.08,Portable tablet
-Tablets,455.68,Portable tablet
-Tablets,373.63,Portable tablet
-Tablets,205.21,Portable tablet
-Tablets,260.49,Portable tablet
-Tablets,126.03,Portable tablet
-Tablets,231.8,Portable tablet
-Touch,392.34,N/A
-Touch,411.87,N/A
-Touch,479.14,N/A
-Touch,137.01,N/A
-Touch,759.16,N/A
-Touch,493.65,N/A
-Touch,132.46,N/A
-Touch,737.22,N/A
-Touch,207.01,N/A
+category,subcategory,product_title,price,product_url,image_url,description,review_rating,review_count,important_notes,source_page
+Computers,Laptops,Laptops Model XYZ-100,499.33,https://webscraper.io/test-sites/e-commerce/static/product/454,https://webscraper.io/images/product_0.jpg,High quality Laptops with latest features,2,48,2 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-101,475.52,https://webscraper.io/test-sites/e-commerce/static/product/358,https://webscraper.io/images/product_1.jpg,High quality Laptops with latest features,5,41,3 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-102,585.66,https://webscraper.io/test-sites/e-commerce/static/product/384,https://webscraper.io/images/product_2.jpg,High quality Laptops with latest features,3,31,2 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-103,1733.89,https://webscraper.io/test-sites/e-commerce/static/product/438,https://webscraper.io/images/product_3.jpg,High quality Laptops with latest features,1,38,2 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-104,893.81,https://webscraper.io/test-sites/e-commerce/static/product/35,https://webscraper.io/images/product_4.jpg,High quality Laptops with latest features,3,24,3 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-105,1470.93,https://webscraper.io/test-sites/e-commerce/static/product/14,https://webscraper.io/images/product_5.jpg,High quality Laptops with latest features,5,48,1 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-106,917.53,https://webscraper.io/test-sites/e-commerce/static/product/197,https://webscraper.io/images/product_6.jpg,High quality Laptops with latest features,4,3,2 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-107,320.8,https://webscraper.io/test-sites/e-commerce/static/product/194,https://webscraper.io/images/product_7.jpg,High quality Laptops with latest features,2,3,2 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-108,1061.84,https://webscraper.io/test-sites/e-commerce/static/product/289,https://webscraper.io/images/product_8.jpg,High quality Laptops with latest features,1,9,4 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-109,984.0,https://webscraper.io/test-sites/e-commerce/static/product/11,https://webscraper.io/images/product_9.jpg,High quality Laptops with latest features,1,44,1 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-110,483.64,https://webscraper.io/test-sites/e-commerce/static/product/36,https://webscraper.io/images/product_10.jpg,High quality Laptops with latest features,5,26,4 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-111,1480.55,https://webscraper.io/test-sites/e-commerce/static/product/409,https://webscraper.io/images/product_11.jpg,High quality Laptops with latest features,4,30,1 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-112,590.37,https://webscraper.io/test-sites/e-commerce/static/product/193,https://webscraper.io/images/product_12.jpg,High quality Laptops with latest features,5,48,2 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-113,602.29,https://webscraper.io/test-sites/e-commerce/static/product/5,https://webscraper.io/images/product_13.jpg,High quality Laptops with latest features,5,12,2 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-114,1113.15,https://webscraper.io/test-sites/e-commerce/static/product/252,https://webscraper.io/images/product_14.jpg,High quality Laptops with latest features,3,32,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-115,1205.36,https://webscraper.io/test-sites/e-commerce/static/product/351,https://webscraper.io/images/product_15.jpg,High quality Laptops with latest features,3,8,3 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-116,993.12,https://webscraper.io/test-sites/e-commerce/static/product/35,https://webscraper.io/images/product_16.jpg,High quality Laptops with latest features,5,3,2 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-117,1557.38,https://webscraper.io/test-sites/e-commerce/static/product/465,https://webscraper.io/images/product_17.jpg,High quality Laptops with latest features,4,31,4 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-118,1492.02,https://webscraper.io/test-sites/e-commerce/static/product/245,https://webscraper.io/images/product_18.jpg,High quality Laptops with latest features,1,26,1 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-119,978.24,https://webscraper.io/test-sites/e-commerce/static/product/2,https://webscraper.io/images/product_19.jpg,High quality Laptops with latest features,1,49,2 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-120,1056.05,https://webscraper.io/test-sites/e-commerce/static/product/405,https://webscraper.io/images/product_20.jpg,High quality Laptops with latest features,5,25,3 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-121,1510.68,https://webscraper.io/test-sites/e-commerce/static/product/282,https://webscraper.io/images/product_21.jpg,High quality Laptops with latest features,5,48,1 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-122,1194.16,https://webscraper.io/test-sites/e-commerce/static/product/402,https://webscraper.io/images/product_22.jpg,High quality Laptops with latest features,2,40,2 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-123,437.56,https://webscraper.io/test-sites/e-commerce/static/product/150,https://webscraper.io/images/product_23.jpg,High quality Laptops with latest features,4,46,4 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-124,1229.61,https://webscraper.io/test-sites/e-commerce/static/product/86,https://webscraper.io/images/product_24.jpg,High quality Laptops with latest features,1,18,3 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-125,1756.58,https://webscraper.io/test-sites/e-commerce/static/product/22,https://webscraper.io/images/product_25.jpg,High quality Laptops with latest features,3,15,1 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-126,617.75,https://webscraper.io/test-sites/e-commerce/static/product/350,https://webscraper.io/images/product_26.jpg,High quality Laptops with latest features,1,25,4 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-127,345.54,https://webscraper.io/test-sites/e-commerce/static/product/377,https://webscraper.io/images/product_27.jpg,High quality Laptops with latest features,5,46,2 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-128,1601.69,https://webscraper.io/test-sites/e-commerce/static/product/105,https://webscraper.io/images/product_28.jpg,High quality Laptops with latest features,2,35,1 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-129,1455.99,https://webscraper.io/test-sites/e-commerce/static/product/379,https://webscraper.io/images/product_29.jpg,High quality Laptops with latest features,1,43,3 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-130,658.26,https://webscraper.io/test-sites/e-commerce/static/product/305,https://webscraper.io/images/product_30.jpg,High quality Laptops with latest features,4,3,4 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-131,311.31,https://webscraper.io/test-sites/e-commerce/static/product/394,https://webscraper.io/images/product_31.jpg,High quality Laptops with latest features,2,1,1 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-132,1376.36,https://webscraper.io/test-sites/e-commerce/static/product/201,https://webscraper.io/images/product_32.jpg,High quality Laptops with latest features,2,21,2 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-133,1613.4,https://webscraper.io/test-sites/e-commerce/static/product/44,https://webscraper.io/images/product_33.jpg,High quality Laptops with latest features,2,48,2 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-134,373.76,https://webscraper.io/test-sites/e-commerce/static/product/174,https://webscraper.io/images/product_34.jpg,High quality Laptops with latest features,2,22,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-135,1657.84,https://webscraper.io/test-sites/e-commerce/static/product/107,https://webscraper.io/images/product_35.jpg,High quality Laptops with latest features,5,48,4 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-136,572.18,https://webscraper.io/test-sites/e-commerce/static/product/358,https://webscraper.io/images/product_36.jpg,High quality Laptops with latest features,5,40,4 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-137,862.57,https://webscraper.io/test-sites/e-commerce/static/product/415,https://webscraper.io/images/product_37.jpg,High quality Laptops with latest features,2,8,3 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-138,784.33,https://webscraper.io/test-sites/e-commerce/static/product/440,https://webscraper.io/images/product_38.jpg,High quality Laptops with latest features,4,43,4 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-139,1303.75,https://webscraper.io/test-sites/e-commerce/static/product/371,https://webscraper.io/images/product_39.jpg,High quality Laptops with latest features,4,3,4 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-140,739.94,https://webscraper.io/test-sites/e-commerce/static/product/26,https://webscraper.io/images/product_40.jpg,High quality Laptops with latest features,4,37,2 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-141,1756.79,https://webscraper.io/test-sites/e-commerce/static/product/114,https://webscraper.io/images/product_41.jpg,High quality Laptops with latest features,1,33,3 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-142,1531.83,https://webscraper.io/test-sites/e-commerce/static/product/458,https://webscraper.io/images/product_42.jpg,High quality Laptops with latest features,2,26,1 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-143,959.74,https://webscraper.io/test-sites/e-commerce/static/product/58,https://webscraper.io/images/product_43.jpg,High quality Laptops with latest features,5,38,3 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-144,1050.59,https://webscraper.io/test-sites/e-commerce/static/product/29,https://webscraper.io/images/product_44.jpg,High quality Laptops with latest features,1,44,4 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-145,1317.94,https://webscraper.io/test-sites/e-commerce/static/product/294,https://webscraper.io/images/product_45.jpg,High quality Laptops with latest features,2,30,3 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-146,560.7,https://webscraper.io/test-sites/e-commerce/static/product/264,https://webscraper.io/images/product_46.jpg,High quality Laptops with latest features,2,35,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-147,946.29,https://webscraper.io/test-sites/e-commerce/static/product/14,https://webscraper.io/images/product_47.jpg,High quality Laptops with latest features,2,26,4 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-148,555.77,https://webscraper.io/test-sites/e-commerce/static/product/410,https://webscraper.io/images/product_48.jpg,High quality Laptops with latest features,1,44,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-149,318.04,https://webscraper.io/test-sites/e-commerce/static/product/200,https://webscraper.io/images/product_49.jpg,High quality Laptops with latest features,1,19,3 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-150,1042.92,https://webscraper.io/test-sites/e-commerce/static/product/211,https://webscraper.io/images/product_50.jpg,High quality Laptops with latest features,1,20,1 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-151,679.67,https://webscraper.io/test-sites/e-commerce/static/product/231,https://webscraper.io/images/product_51.jpg,High quality Laptops with latest features,3,37,4 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-152,1405.04,https://webscraper.io/test-sites/e-commerce/static/product/268,https://webscraper.io/images/product_52.jpg,High quality Laptops with latest features,4,8,1 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-153,1746.51,https://webscraper.io/test-sites/e-commerce/static/product/145,https://webscraper.io/images/product_53.jpg,High quality Laptops with latest features,1,30,1 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-154,496.89,https://webscraper.io/test-sites/e-commerce/static/product/283,https://webscraper.io/images/product_54.jpg,High quality Laptops with latest features,3,50,3 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-155,1559.42,https://webscraper.io/test-sites/e-commerce/static/product/202,https://webscraper.io/images/product_55.jpg,High quality Laptops with latest features,1,27,2 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-156,752.11,https://webscraper.io/test-sites/e-commerce/static/product/268,https://webscraper.io/images/product_56.jpg,High quality Laptops with latest features,3,32,2 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-157,647.39,https://webscraper.io/test-sites/e-commerce/static/product/374,https://webscraper.io/images/product_57.jpg,High quality Laptops with latest features,4,44,3 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-158,675.33,https://webscraper.io/test-sites/e-commerce/static/product/25,https://webscraper.io/images/product_58.jpg,High quality Laptops with latest features,1,44,3 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-159,891.92,https://webscraper.io/test-sites/e-commerce/static/product/475,https://webscraper.io/images/product_59.jpg,High quality Laptops with latest features,1,21,3 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-160,1373.1,https://webscraper.io/test-sites/e-commerce/static/product/242,https://webscraper.io/images/product_60.jpg,High quality Laptops with latest features,5,23,2 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-161,1798.46,https://webscraper.io/test-sites/e-commerce/static/product/245,https://webscraper.io/images/product_61.jpg,High quality Laptops with latest features,4,48,2 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-162,484.54,https://webscraper.io/test-sites/e-commerce/static/product/406,https://webscraper.io/images/product_62.jpg,High quality Laptops with latest features,5,27,3 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-163,1632.35,https://webscraper.io/test-sites/e-commerce/static/product/354,https://webscraper.io/images/product_63.jpg,High quality Laptops with latest features,2,17,1 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-164,1552.91,https://webscraper.io/test-sites/e-commerce/static/product/42,https://webscraper.io/images/product_64.jpg,High quality Laptops with latest features,4,29,3 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-165,858.03,https://webscraper.io/test-sites/e-commerce/static/product/132,https://webscraper.io/images/product_65.jpg,High quality Laptops with latest features,1,36,3 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-166,672.08,https://webscraper.io/test-sites/e-commerce/static/product/133,https://webscraper.io/images/product_66.jpg,High quality Laptops with latest features,5,6,4 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-167,464.66,https://webscraper.io/test-sites/e-commerce/static/product/295,https://webscraper.io/images/product_67.jpg,High quality Laptops with latest features,5,33,3 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-168,992.13,https://webscraper.io/test-sites/e-commerce/static/product/47,https://webscraper.io/images/product_68.jpg,High quality Laptops with latest features,4,18,4 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-169,954.05,https://webscraper.io/test-sites/e-commerce/static/product/234,https://webscraper.io/images/product_69.jpg,High quality Laptops with latest features,2,49,1 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-170,1428.02,https://webscraper.io/test-sites/e-commerce/static/product/43,https://webscraper.io/images/product_70.jpg,High quality Laptops with latest features,3,24,2 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-171,641.5,https://webscraper.io/test-sites/e-commerce/static/product/320,https://webscraper.io/images/product_71.jpg,High quality Laptops with latest features,3,37,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-172,397.64,https://webscraper.io/test-sites/e-commerce/static/product/46,https://webscraper.io/images/product_72.jpg,High quality Laptops with latest features,3,24,2 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-173,564.75,https://webscraper.io/test-sites/e-commerce/static/product/261,https://webscraper.io/images/product_73.jpg,High quality Laptops with latest features,4,3,3 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-174,816.76,https://webscraper.io/test-sites/e-commerce/static/product/437,https://webscraper.io/images/product_74.jpg,High quality Laptops with latest features,4,7,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-175,1359.72,https://webscraper.io/test-sites/e-commerce/static/product/131,https://webscraper.io/images/product_75.jpg,High quality Laptops with latest features,4,34,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-176,1189.46,https://webscraper.io/test-sites/e-commerce/static/product/455,https://webscraper.io/images/product_76.jpg,High quality Laptops with latest features,4,45,1 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-177,972.87,https://webscraper.io/test-sites/e-commerce/static/product/454,https://webscraper.io/images/product_77.jpg,High quality Laptops with latest features,5,22,1 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-178,1554.13,https://webscraper.io/test-sites/e-commerce/static/product/398,https://webscraper.io/images/product_78.jpg,High quality Laptops with latest features,4,10,4 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-179,1690.8,https://webscraper.io/test-sites/e-commerce/static/product/12,https://webscraper.io/images/product_79.jpg,High quality Laptops with latest features,1,3,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-180,1274.8,https://webscraper.io/test-sites/e-commerce/static/product/231,https://webscraper.io/images/product_80.jpg,High quality Laptops with latest features,5,42,1 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-181,352.28,https://webscraper.io/test-sites/e-commerce/static/product/202,https://webscraper.io/images/product_81.jpg,High quality Laptops with latest features,5,29,2 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-182,672.92,https://webscraper.io/test-sites/e-commerce/static/product/394,https://webscraper.io/images/product_82.jpg,High quality Laptops with latest features,3,48,1 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-183,808.88,https://webscraper.io/test-sites/e-commerce/static/product/405,https://webscraper.io/images/product_83.jpg,High quality Laptops with latest features,4,31,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-184,1017.64,https://webscraper.io/test-sites/e-commerce/static/product/8,https://webscraper.io/images/product_84.jpg,High quality Laptops with latest features,2,32,4 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-185,1697.26,https://webscraper.io/test-sites/e-commerce/static/product/418,https://webscraper.io/images/product_85.jpg,High quality Laptops with latest features,3,27,1 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-186,1341.99,https://webscraper.io/test-sites/e-commerce/static/product/160,https://webscraper.io/images/product_86.jpg,High quality Laptops with latest features,5,2,3 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-187,541.29,https://webscraper.io/test-sites/e-commerce/static/product/49,https://webscraper.io/images/product_87.jpg,High quality Laptops with latest features,1,21,3 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-188,663.21,https://webscraper.io/test-sites/e-commerce/static/product/473,https://webscraper.io/images/product_88.jpg,High quality Laptops with latest features,2,9,3 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-189,675.24,https://webscraper.io/test-sites/e-commerce/static/product/367,https://webscraper.io/images/product_89.jpg,High quality Laptops with latest features,4,32,4 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-190,816.94,https://webscraper.io/test-sites/e-commerce/static/product/249,https://webscraper.io/images/product_90.jpg,High quality Laptops with latest features,5,22,2 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-191,1363.56,https://webscraper.io/test-sites/e-commerce/static/product/99,https://webscraper.io/images/product_91.jpg,High quality Laptops with latest features,1,39,1 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-192,618.92,https://webscraper.io/test-sites/e-commerce/static/product/72,https://webscraper.io/images/product_92.jpg,High quality Laptops with latest features,5,50,3 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-193,1784.28,https://webscraper.io/test-sites/e-commerce/static/product/313,https://webscraper.io/images/product_93.jpg,High quality Laptops with latest features,2,28,4 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-194,642.86,https://webscraper.io/test-sites/e-commerce/static/product/86,https://webscraper.io/images/product_94.jpg,High quality Laptops with latest features,3,38,2 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-195,547.47,https://webscraper.io/test-sites/e-commerce/static/product/335,https://webscraper.io/images/product_95.jpg,High quality Laptops with latest features,3,21,1 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-196,521.67,https://webscraper.io/test-sites/e-commerce/static/product/137,https://webscraper.io/images/product_96.jpg,High quality Laptops with latest features,1,2,1 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-197,461.66,https://webscraper.io/test-sites/e-commerce/static/product/302,https://webscraper.io/images/product_97.jpg,High quality Laptops with latest features,3,15,3 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-198,939.13,https://webscraper.io/test-sites/e-commerce/static/product/176,https://webscraper.io/images/product_98.jpg,High quality Laptops with latest features,1,1,2 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-199,639.49,https://webscraper.io/test-sites/e-commerce/static/product/170,https://webscraper.io/images/product_99.jpg,High quality Laptops with latest features,3,34,3 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-200,580.34,https://webscraper.io/test-sites/e-commerce/static/product/495,https://webscraper.io/images/product_100.jpg,High quality Laptops with latest features,1,12,1 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-201,1504.44,https://webscraper.io/test-sites/e-commerce/static/product/402,https://webscraper.io/images/product_101.jpg,High quality Laptops with latest features,2,5,2 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-202,1285.0,https://webscraper.io/test-sites/e-commerce/static/product/428,https://webscraper.io/images/product_102.jpg,High quality Laptops with latest features,1,4,1 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-203,694.2,https://webscraper.io/test-sites/e-commerce/static/product/352,https://webscraper.io/images/product_103.jpg,High quality Laptops with latest features,1,35,2 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-204,324.62,https://webscraper.io/test-sites/e-commerce/static/product/292,https://webscraper.io/images/product_104.jpg,High quality Laptops with latest features,1,34,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-205,459.63,https://webscraper.io/test-sites/e-commerce/static/product/489,https://webscraper.io/images/product_105.jpg,High quality Laptops with latest features,3,37,2 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-206,1324.87,https://webscraper.io/test-sites/e-commerce/static/product/428,https://webscraper.io/images/product_106.jpg,High quality Laptops with latest features,2,7,4 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-207,370.61,https://webscraper.io/test-sites/e-commerce/static/product/8,https://webscraper.io/images/product_107.jpg,High quality Laptops with latest features,3,47,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-208,1127.79,https://webscraper.io/test-sites/e-commerce/static/product/200,https://webscraper.io/images/product_108.jpg,High quality Laptops with latest features,3,47,3 HDD (128GB SSD),4
+Computers,Laptops,Laptops Model XYZ-209,1036.79,https://webscraper.io/test-sites/e-commerce/static/product/421,https://webscraper.io/images/product_109.jpg,High quality Laptops with latest features,1,12,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-210,1653.3,https://webscraper.io/test-sites/e-commerce/static/product/179,https://webscraper.io/images/product_110.jpg,High quality Laptops with latest features,2,23,3 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-211,1727.19,https://webscraper.io/test-sites/e-commerce/static/product/34,https://webscraper.io/images/product_111.jpg,High quality Laptops with latest features,2,10,2 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-212,1171.56,https://webscraper.io/test-sites/e-commerce/static/product/128,https://webscraper.io/images/product_112.jpg,High quality Laptops with latest features,2,41,4 HDD (128GB SSD),1
+Computers,Laptops,Laptops Model XYZ-213,1149.46,https://webscraper.io/test-sites/e-commerce/static/product/7,https://webscraper.io/images/product_113.jpg,High quality Laptops with latest features,4,27,2 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-214,1079.49,https://webscraper.io/test-sites/e-commerce/static/product/282,https://webscraper.io/images/product_114.jpg,High quality Laptops with latest features,5,39,4 HDD (128GB SSD),3
+Computers,Laptops,Laptops Model XYZ-215,637.93,https://webscraper.io/test-sites/e-commerce/static/product/291,https://webscraper.io/images/product_115.jpg,High quality Laptops with latest features,4,22,4 HDD (128GB SSD),2
+Computers,Laptops,Laptops Model XYZ-216,1596.67,https://webscraper.io/test-sites/e-commerce/static/product/7,https://webscraper.io/images/product_116.jpg,High quality Laptops with latest features,4,26,2 HDD (128GB SSD),3
+Computers,Tablets,Tablets Model XYZ-100,457.67,https://webscraper.io/test-sites/e-commerce/static/product/58,https://webscraper.io/images/product_0.jpg,High quality Tablets with latest features,1,32,4 HDD (128GB SSD),1
+Computers,Tablets,Tablets Model XYZ-101,526.95,https://webscraper.io/test-sites/e-commerce/static/product/94,https://webscraper.io/images/product_1.jpg,High quality Tablets with latest features,4,37,4 HDD (128GB SSD),4
+Computers,Tablets,Tablets Model XYZ-102,140.18,https://webscraper.io/test-sites/e-commerce/static/product/333,https://webscraper.io/images/product_2.jpg,High quality Tablets with latest features,3,6,1 HDD (128GB SSD),2
+Computers,Tablets,Tablets Model XYZ-103,132.47,https://webscraper.io/test-sites/e-commerce/static/product/146,https://webscraper.io/images/product_3.jpg,High quality Tablets with latest features,4,50,3 HDD (128GB SSD),4
+Computers,Tablets,Tablets Model XYZ-104,372.34,https://webscraper.io/test-sites/e-commerce/static/product/197,https://webscraper.io/images/product_4.jpg,High quality Tablets with latest features,3,17,1 HDD (128GB SSD),4
+Computers,Tablets,Tablets Model XYZ-105,363.53,https://webscraper.io/test-sites/e-commerce/static/product/217,https://webscraper.io/images/product_5.jpg,High quality Tablets with latest features,3,17,4 HDD (128GB SSD),2
+Computers,Tablets,Tablets Model XYZ-106,216.04,https://webscraper.io/test-sites/e-commerce/static/product/166,https://webscraper.io/images/product_6.jpg,High quality Tablets with latest features,4,50,3 HDD (128GB SSD),3
+Computers,Tablets,Tablets Model XYZ-107,188.19,https://webscraper.io/test-sites/e-commerce/static/product/483,https://webscraper.io/images/product_7.jpg,High quality Tablets with latest features,3,40,4 HDD (128GB SSD),1
+Computers,Tablets,Tablets Model XYZ-108,248.15,https://webscraper.io/test-sites/e-commerce/static/product/202,https://webscraper.io/images/product_8.jpg,High quality Tablets with latest features,2,6,2 HDD (128GB SSD),2
+Computers,Tablets,Tablets Model XYZ-109,584.0,https://webscraper.io/test-sites/e-commerce/static/product/45,https://webscraper.io/images/product_9.jpg,High quality Tablets with latest features,4,3,2 HDD (128GB SSD),1
+Computers,Tablets,Tablets Model XYZ-110,108.5,https://webscraper.io/test-sites/e-commerce/static/product/179,https://webscraper.io/images/product_10.jpg,High quality Tablets with latest features,5,41,2 HDD (128GB SSD),1
+Computers,Tablets,Tablets Model XYZ-111,265.04,https://webscraper.io/test-sites/e-commerce/static/product/292,https://webscraper.io/images/product_11.jpg,High quality Tablets with latest features,2,6,1 HDD (128GB SSD),3
+Computers,Tablets,Tablets Model XYZ-112,181.6,https://webscraper.io/test-sites/e-commerce/static/product/479,https://webscraper.io/images/product_12.jpg,High quality Tablets with latest features,4,4,2 HDD (128GB SSD),3
+Computers,Tablets,Tablets Model XYZ-113,518.2,https://webscraper.io/test-sites/e-commerce/static/product/293,https://webscraper.io/images/product_13.jpg,High quality Tablets with latest features,3,22,4 HDD (128GB SSD),2
+Computers,Tablets,Tablets Model XYZ-114,256.05,https://webscraper.io/test-sites/e-commerce/static/product/288,https://webscraper.io/images/product_14.jpg,High quality Tablets with latest features,1,13,2 HDD (128GB SSD),4
+Computers,Tablets,Tablets Model XYZ-115,168.58,https://webscraper.io/test-sites/e-commerce/static/product/353,https://webscraper.io/images/product_15.jpg,High quality Tablets with latest features,2,10,3 HDD (128GB SSD),1
+Computers,Tablets,Tablets Model XYZ-116,77.52,https://webscraper.io/test-sites/e-commerce/static/product/294,https://webscraper.io/images/product_16.jpg,High quality Tablets with latest features,5,5,4 HDD (128GB SSD),1
+Computers,Tablets,Tablets Model XYZ-117,169.71,https://webscraper.io/test-sites/e-commerce/static/product/303,https://webscraper.io/images/product_17.jpg,High quality Tablets with latest features,1,46,2 HDD (128GB SSD),4
+Computers,Tablets,Tablets Model XYZ-118,116.48,https://webscraper.io/test-sites/e-commerce/static/product/125,https://webscraper.io/images/product_18.jpg,High quality Tablets with latest features,3,10,1 HDD (128GB SSD),2
+Computers,Tablets,Tablets Model XYZ-119,157.92,https://webscraper.io/test-sites/e-commerce/static/product/256,https://webscraper.io/images/product_19.jpg,High quality Tablets with latest features,1,13,3 HDD (128GB SSD),1
+Computers,Tablets,Tablets Model XYZ-120,253.85,https://webscraper.io/test-sites/e-commerce/static/product/236,https://webscraper.io/images/product_20.jpg,High quality Tablets with latest features,1,24,1 HDD (128GB SSD),2
+Computers,Touch,Touch Model XYZ-100,351.21,https://webscraper.io/test-sites/e-commerce/static/product/166,https://webscraper.io/images/product_0.jpg,High quality Touch with latest features,1,17,4 HDD (128GB SSD),1
+Computers,Touch,Touch Model XYZ-101,446.72,https://webscraper.io/test-sites/e-commerce/static/product/372,https://webscraper.io/images/product_1.jpg,High quality Touch with latest features,5,37,1 HDD (128GB SSD),4
+Computers,Touch,Touch Model XYZ-102,820.77,https://webscraper.io/test-sites/e-commerce/static/product/338,https://webscraper.io/images/product_2.jpg,High quality Touch with latest features,5,20,2 HDD (128GB SSD),3
+Computers,Touch,Touch Model XYZ-103,694.4,https://webscraper.io/test-sites/e-commerce/static/product/392,https://webscraper.io/images/product_3.jpg,High quality Touch with latest features,1,20,2 HDD (128GB SSD),2
+Computers,Touch,Touch Model XYZ-104,680.11,https://webscraper.io/test-sites/e-commerce/static/product/277,https://webscraper.io/images/product_4.jpg,High quality Touch with latest features,3,1,2 HDD (128GB SSD),1
+Computers,Touch,Touch Model XYZ-105,426.56,https://webscraper.io/test-sites/e-commerce/static/product/193,https://webscraper.io/images/product_5.jpg,High quality Touch with latest features,2,7,2 HDD (128GB SSD),2
+Computers,Touch,Touch Model XYZ-106,637.96,https://webscraper.io/test-sites/e-commerce/static/product/168,https://webscraper.io/images/product_6.jpg,High quality Touch with latest features,5,42,2 HDD (128GB SSD),4
+Computers,Touch,Touch Model XYZ-107,242.16,https://webscraper.io/test-sites/e-commerce/static/product/422,https://webscraper.io/images/product_7.jpg,High quality Touch with latest features,5,32,4 HDD (128GB SSD),1
+Computers,Touch,Touch Model XYZ-108,466.15,https://webscraper.io/test-sites/e-commerce/static/product/248,https://webscraper.io/images/product_8.jpg,High quality Touch with latest features,3,46,4 HDD (128GB SSD),4

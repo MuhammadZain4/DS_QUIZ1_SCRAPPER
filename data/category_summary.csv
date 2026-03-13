@@ -1,4 +1,4 @@
 subcategory,total_products,avg_price,min_price,max_price,missing_descriptions,duplicates_removed
-Laptops,117,1011.1017094017094,324.45,1778.85,0,0
-Tablets,21,337.03761904761905,126.03,598.21,0,0
-Touch,9,416.6511111111111,132.46,759.16,0,0
+Laptops,117,993.9911965811966,311.31,1798.46,0,0
+Tablets,21,262.0461904761905,77.52,584.0,0,0
+Touch,9,529.56,242.16,820.77,0,0
