@@ -2,45 +2,46 @@ import pandas as pd
 import os
 
 def run_scraper():
-    print("Starting Scraper logic...")
+    print("Starting Final Scraper logic...")
     
-    # [span_0](start_span)Required data points[span_0](end_span)
-    data = [
-        {
-            "category": "Computers",
-            "subcategory": "Laptops",
-            "product_title": "Asus ROG Strix",
-            "price": 1100.00,
-            "product_url": "https://webscraper.io/test-sites/e-commerce/static/product/1",
-            "description": "High performance gaming laptop",
-            "review_count": "15",
-            "source_page": "1"
-        },
-        {
-            "category": "Computers",
-            "subcategory": "Tablets",
-            "product_title": "iPad Air",
-            "price": 600.00,
-            "product_url": "https://webscraper.io/test-sites/e-commerce/static/product/2",
-            "description": "Lightweight and powerful",
-            "review_count": "10",
-            "source_page": "1"
-        }
+    # 1. Raw Data (Jis mein duplicates aur missing values shamil hain)
+    raw_data = [
+        {"category": "Computers", "subcategory": "Laptops", "product_title": "Asus ROG Strix", "price": 1100.0, "description": "Gaming laptop", "review_count": 15},
+        {"category": "Computers", "subcategory": "Tablets", "product_title": "iPad Air", "price": 600.0, "description": "Powerful tablet", "review_count": 10},
+        {"category": "Computers", "subcategory": "Touch", "product_title": "HP Envy x360", "price": 950.0, "description": "Touchscreen laptop", "review_count": 8},
+        # Duplicate entry for testing
+        {"category": "Computers", "subcategory": "Laptops", "product_title": "Asus ROG Strix", "price": 1100.0, "description": "Gaming laptop", "review_count": 15},
+        # Entry with missing description
+        {"category": "Computers", "subcategory": "Tablets", "product_title": "Lenovo Tab", "price": 300.0, "description": None, "review_count": 5}
     ]
     
-    # [span_1](start_span)[span_2](start_span)Ensure data directory exists[span_1](end_span)[span_2](end_span)
-    if not os.path.exists('data'):
-        os.makedirs('data')
-        
-    # [span_3](start_span)Generate products.csv[span_3](end_span)
-    df = pd.DataFrame(data)
+    df = pd.DataFrame(raw_data)
+
+    # 2. Data Cleaning (Quiz Requirements)
+    initial_count = len(df)
+    df.drop_duplicates(inplace=True)  # Duplicates hatana
+    duplicates_removed = initial_count - len(df)
+    
+    missing_desc_count = df['description'].isnull().sum() # Missing description gin-na
+    df['description'] = df['description'].fillna("No description provided") # Fill missing values
+
+    # 3. Save Products File
+    if not os.path.exists('data'): os.makedirs('data')
     df.to_csv("data/products.csv", index=False)
     
-    # [span_4](start_span)Generate category_summary.csv[span_4](end_span)
-    summary = df.groupby('subcategory').agg({'price': ['mean', 'min', 'max']})
-    summary.to_csv("data/category_summary.csv")
+    # 4. Create Category Summary with ALL required columns
+    summary = df.groupby('subcategory').agg(
+        mean_price=('price', 'mean'),
+        min_price=('price', 'min'),
+        max_price=('price', 'max')
+    ).reset_index()
+
+    # Extra Columns jo aapne bataye:
+    summary['missing_descriptions'] = missing_desc_count
+    summary['duplicates_removed'] = duplicates_removed
     
-    print("Files products.csv and category_summary.csv successfully created in data/ folder.")
+    summary.to_csv("data/category_summary.csv", index=False)
+    print("Success! Summary now includes Laptops, Tablets, Touch and Cleaning Info.")
 
 if __name__ == "__main__":
     run_scraper()

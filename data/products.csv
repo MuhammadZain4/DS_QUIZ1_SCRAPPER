@@ -1,3 +1,5 @@
-category,subcategory,product_title,price,product_url,description,review_count,source_page
-Computers,Laptops,Asus ROG Strix,1100.0,https://webscraper.io/test-sites/e-commerce/static/product/1,High performance gaming laptop,15,1
-Computers,Tablets,iPad Air,600.0,https://webscraper.io/test-sites/e-commerce/static/product/2,Lightweight and powerful,10,1
+category,subcategory,product_title,price,description,review_count
+Computers,Laptops,Asus ROG Strix,1100.0,Gaming laptop,15
+Computers,Tablets,iPad Air,600.0,Powerful tablet,10
+Computers,Touch,HP Envy x360,950.0,Touchscreen laptop,8
+Computers,Tablets,Lenovo Tab,300.0,No description provided,5

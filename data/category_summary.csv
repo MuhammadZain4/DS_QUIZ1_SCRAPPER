@@ -1,5 +1,4 @@
-,price,price,price
-,mean,min,max
-subcategory,,,
-Laptops,1100.0,1100.0,1100.0
-Tablets,600.0,600.0,600.0
+subcategory,mean_price,min_price,max_price,missing_descriptions,duplicates_removed
+Laptops,1100.0,1100.0,1100.0,1,1
+Tablets,450.0,300.0,600.0,1,1
+Touch,950.0,950.0,950.0,1,1
