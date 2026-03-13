@@ -1,5 +1,5 @@
 def main():
-    print("Hello from ds-quiz1-scrapper!")
+    print("Hello from catalog-scraper!")
 
 
 if __name__ == "__main__":
